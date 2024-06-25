@@ -11,3 +11,8 @@ The Official Web3 Playground to Learn Web3.
 - Wrote my second smart contract using Solidity.
 - Wrote a smart contract which could perform operations like a calculator.
 - Had defined an function inside of the smart contract.
+
+# DAY -3
+
+- Tried the different ways and logics of running a smart contract.
+- Debugged the code and found alternatives to fix the errors.
